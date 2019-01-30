@@ -18,5 +18,3 @@ begin
 ensure
   $stderr = old_stderr
 end
-
-
